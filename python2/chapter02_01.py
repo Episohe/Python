@@ -84,7 +84,7 @@ print(car1.__dict__)
 print(dir(car1))
 
 print('-------------------------------------------------------------------------')
-
+# list 출력 -> repr
 car_list = [car1, car2, car3]
 
 print(car_list)

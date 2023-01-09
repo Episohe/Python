@@ -80,6 +80,7 @@ c = random.choice(d)
 print(c)
 
 # webbrowser : 본인 OS 의 웹 브라우저 실행
+import webbrowser
 
 # 예제17
 webbrowser.open("http://google.com")
